@@ -3,8 +3,8 @@ const engine = Engine.create();
 engine.world.gravity.y=0;
 const { world } = engine;
 
-const cellsHorizontal = 10;
-const cellsVertical = 10;
+const cellsHorizontal = 12;
+const cellsVertical = 12;
 
 const width = window.innerWidth;
 const height = window.innerHeight;
